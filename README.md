@@ -8,13 +8,13 @@ An analysis of Berlin's official automated bicycle-counting data for 2025. The p
 
 ## Dashboard Preview
 
-### 01 — Traffic Overview
-![Traffic Overview](<img width="1192" height="834" alt="traffic_overview" src="https://github.com/user-attachments/assets/ac525335-fa13-498f-b539-283bd435e1b9" />
-)
+### 1. Traffic Overview
 
-### 02 — Station Explorer
-![Station Explorer](<img width="1193" height="833" alt="station_explorer" src="https://github.com/user-attachments/assets/9449452d-8426-458d-973b-408c6de3edb8" />
-)
+![Traffic Overview](dashboard/traffic_overview.png)
+
+### 2. Station Explorer
+
+![Station Explorer](dashboard/station_explorer.png)
 
 Use the navigation buttons within the published Tableau workbook to switch between these views.
 
